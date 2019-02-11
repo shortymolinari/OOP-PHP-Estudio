@@ -1,42 +1,102 @@
 # OOP-PHP-Estudio
-Conociendo y documentando  Programación orientada a objetos
+
+Conociendo y documentando Programación orientada a objetos
 
 ## \#OOP (Progreso)
 
 - [x] Introduction
 - [x] The Basics
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Properties
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Class Constants
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Autoloading Classes
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Constructors and Destructors
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Visibility
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Object Inheritance
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - Scope Resolution Operator (::)
 - Static Keyword
 - [x] Class Abstraction
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+  - [x] **testing{phpunit}**
+
 - [x] Object Interfaces
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+  - [x] **testing{phpunit}**
+
 - [x] Traits
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+  - [x] **testing{phpunit}**
+
 - [x] Anonymous classes
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - Overloading
 - Object Iteration
 - Magic Methods
 - [x] Final Keyword
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Object Cloning
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - [x] Comparing Objects
-  - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+
 - Type Hinting
 - Late Static Bindings
 - Objects and references
