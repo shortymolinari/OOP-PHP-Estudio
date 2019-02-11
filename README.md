@@ -77,8 +77,20 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **testing {echo, print}**
 
 - Overloading
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+  - [x] **testing{phpunit}**
+
 - Object Iteration
 - Magic Methods
+
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing {echo, print}**
+  - [x] **testing{phpunit}**
+
 - [x] Final Keyword
 
   - [x] **Docuemntado**
