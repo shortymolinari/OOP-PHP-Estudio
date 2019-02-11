@@ -3,7 +3,7 @@ Conociendo y documentando  Programación orientada a objetos
 
 ## \#OOP (Progreso)
 
-- Introduction
+- [x]Introduction
 - The Basics
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
 - Properties
