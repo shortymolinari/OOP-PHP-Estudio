@@ -3,39 +3,39 @@ Conociendo y documentando  Programación orientada a objetos
 
 ## \#OOP (Progreso)
 
-- [x]Introduction
-- The Basics
+- [x] Introduction
+- [x] The Basics
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Properties
+- [x] Properties
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Class Constants
+- [x] Class Constants
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Autoloading Classes
+- [x] Autoloading Classes
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Constructors and Destructors
+- [x] Constructors and Destructors
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Visibility
+- [x] Visibility
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Object Inheritance
+- [x] Object Inheritance
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
 - Scope Resolution Operator (::)
 - Static Keyword
-- Class Abstraction
+- [x] Class Abstraction
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
-- Object Interfaces
+- [x] Object Interfaces
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
-- Traits
+- [x] Traits
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print}, testing{phpunit})_**
-- Anonymous classes
+- [x] Anonymous classes
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
 - Overloading
 - Object Iteration
 - Magic Methods
-- Final Keyword
+- [x] Final Keyword
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Object Cloning
+- [x] Object Cloning
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
-- Comparing Objects
+- [x] Comparing Objects
   - **[+]** - **_(Docuemntado, Mockups, testing{echo, print})_**
 - Type Hinting
 - Late Static Bindings
