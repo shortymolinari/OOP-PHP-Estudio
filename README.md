@@ -109,7 +109,10 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **testing - {echo, print}**
 
 - Type Hinting
-
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing - {echo, print}**
+  
 - Late Static Bindings
 
 - Objects and references
