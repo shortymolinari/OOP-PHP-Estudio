@@ -89,7 +89,7 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **Docuemntado**
   - [x] **Mockups**
   - [x] **testing {echo, print}**
-  - [x] **testing{phpunit}**
+  - [] **testing{phpunit}**
 
 - [x] Final Keyword
 
@@ -110,7 +110,10 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **testing {echo, print}**
 
 - Type Hinting
+
 - Late Static Bindings
+
 - Objects and references
+
 - Object Serialization
 - OOP Changelog
