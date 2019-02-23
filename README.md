@@ -122,6 +122,9 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **testing - {echo, print}**
   
 - Late Static Bindings
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing - {echo, print}**
 
 - Objects and references
   - [x] **Docuemntado**
