@@ -113,6 +113,11 @@ Conociendo y documentando Programación orientada a objetos
 - Late Static Bindings
 
 - Objects and references
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing - {echo, print}**
+  
+- OOP Changelog
 
 - Object Serialization
   - [x] **Docuemntado**
