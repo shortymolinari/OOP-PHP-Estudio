@@ -48,7 +48,15 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **testing - {echo, print}**
 
 - Scope Resolution Operator (::)
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing - {echo, print}**
+  
 - Static Keyword
+  - [x] **Docuemntado**
+  - [x] **Mockups**
+  - [x] **testing - {echo, print}**
+  
 - [x] Class Abstraction
 
   - [x] **Docuemntado**
