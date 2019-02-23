@@ -120,8 +120,6 @@ Conociendo y documentando Programación orientada a objetos
   - [x] **Mockups**
   - [x] **testing - {echo, print}**
   
-- OOP Changelog
-
 - Object Serialization
   - [x] **Docuemntado**
   - [x] **Mockups**
